@@ -10,11 +10,17 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - Média das transações: [64.99]
 - Desvio padrão das transações: [22.86]
 
+![Média de transações](images/media_transacoes.png)
+
+![Desvio padrão das transições](images/desvio_padrao_transicoes.png)
+
 ## Números importantes
 - Quantidade média de transações por cliente: [18.14]
 - Transação que mais se repete entre todos os meses: [49]
 - O maior valor de transação é: [105]
 - O menor valor de transação é: [10]
+
+![Moda de transação por ano](images/moda_transacao_mes_ano.png)
 
 ## Total de transações por ano
 - 2011: [1340339] - Média: [64.88]
@@ -24,6 +30,15 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - 2015: [435175] - Média: [65.23]
 
 - Total de todos os anos: [8123989]
+
+![Total de transações por ano](images/total_transacoes_por_ano.png)
+
+![Média e mediana de transação por ano](images/media_mediana_transacao_por_ano.png)
+
+## Ano que mais/menos vendeu
+- O ano que mais vendeu foi o ano 2013 com um total de [2137368] transações.
+- O ano que menos vendeu foi o ano 2015 com um total de [435175] transações.
+- O ano que menos vendeu (desconsiderando 2015 e 2011) foi o ano 2014 com um total de [2094508] transações.
 
 ## Total de Transações por mês
 - Total de Transações para o mês 1: [724107]
@@ -39,6 +54,8 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - Total de Transações para o mês 11: [698273]
 - Total de Transações para o mês 12: [709964]
 
+![Total de transações por mês](images/total_de_transacoes_por_mes.png)
+
 ## Média de Transações por mês
 - Média de Transação para o mês 1: [64.97]
 - Média de Transação para o mês 2: [64.91]
@@ -52,6 +69,12 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - Média de Transação para o mês 10: [64.87]
 - Média de Transação para o mês 11: [65.42]
 - Média de Transação para o mês 12: [64.74]
+
+![Média de transações por mês](images/media_transacao_mes.png)
+
+## Gráfico de dispersão com recência 
+
+![Média de transações por cliente](images/media_transacoes_por_cliente.png)
 
 ## Clientes com Maior Quantidade de Transações
 - Os 10 clientes com maior quantidade de transações:
@@ -77,7 +100,4 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 2. Mês: 5 - Total de transações: [633212]
 3. Mês: 3 - Total de transações: [636577]
 
-## Ano que mais/menos vendeu
-- O ano que mais vendeu foi o ano 2013 com um total de [2137368] transações.
-- O ano que menos vendeu foi o ano 2015 com um total de [435175] transações.
-- O ano que menos vendeu (desconsiderando 2015 e 2011) foi o ano 2014 com um total de [2094508] transações.
+![Vendas por mês](images/vendas_por_mes.png)
