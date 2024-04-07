@@ -23,36 +23,36 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 ![Moda de transação por ano](images/moda_transacoes_mes_ano.png)
 
 ## Total de transações por ano
-- 2011: [1340339] - Média: [64.88]
-- 2012: [2116599] - Média: [65.04]
-- 2013: [2137368] - Média: [64.96]
-- 2014: [2094508] - Média: [64.99]
-- 2015: [435175] - Média: [65.23]
+- 2011: [1.340.339] - Média: [64.88]
+- 2012: [2.116.599] - Média: [65.04]
+- 2013: [2.137.368] - Média: [64.96]
+- 2014: [2.094.508] - Média: [64.99]
+- 2015: [435.175] - Média: [65.23]
 
-- Total de todos os anos: [8123989]
+- Total de todos os anos: [8.123.989]
 
 ![Total de transações por ano](images/total_transacoes_por_ano.png)
 
 ![Média e mediana de transação por ano](images/media_mediana_transacao_por_ano.png)
 
 ## Ano que mais/menos vendeu
-- O ano que mais vendeu foi o ano 2013 com um total de [2137368] transações.
-- O ano que menos vendeu foi o ano 2015 com um total de [435175] transações.
+- O ano que mais vendeu foi o ano 2013 com um total de [2.137.368] transações.
+- O ano que menos vendeu foi o ano 2015 com um total de [435.175] transações.
 - O ano que menos vendeu (desconsiderando 2015 e 2011) foi o ano 2014 com um total de [2094508] transações.
 
 ## Total de Transações por mês
-- Total de Transações para o mês 1: [724107]
-- Total de Transações para o mês 2: [645154]
-- Total de Transações para o mês 3: [636577]
-- Total de Transações para o mês 4: [515791]
-- Total de Transações para o mês 5: [633212]
-- Total de Transações para o mês 6: [697014]
-- Total de Transações para o mês 7: [717223]
-- Total de Transações para o mês 8: [726921]
-- Total de Transações para o mês 9: [694433]
-- Total de Transações para o mês 10: [725320]
-- Total de Transações para o mês 11: [698273]
-- Total de Transações para o mês 12: [709964]
+- Total de Transações para o mês 1: [724.107]
+- Total de Transações para o mês 2: [645.154]
+- Total de Transações para o mês 3: [636.577]
+- Total de Transações para o mês 4: [515.791]
+- Total de Transações para o mês 5: [633.212]
+- Total de Transações para o mês 6: [697.014]
+- Total de Transações para o mês 7: [717.223]
+- Total de Transações para o mês 8: [726.921]
+- Total de Transações para o mês 9: [694.433]
+- Total de Transações para o mês 10: [725.320]
+- Total de Transações para o mês 11: [698.273]
+- Total de Transações para o mês 12: [709.964]
 
 ![Total de transações por mês](images/total_de_transacoes_por_mes.png)
 
@@ -91,13 +91,13 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 
 ## Meses que mais/menos venderam
 - Os três meses que mais venderam foram:
-1. Mês: 8 - Total de transações: [726921]
-2. Mês: 10 - Total de transações: [725320]
-3. Mês: 1 - Total de transações: [724107]
+1. Mês: 8 - Total de transações: [726.921]
+2. Mês: 10 - Total de transações: [725.320]
+3. Mês: 1 - Total de transações: [724.107]
 
 - Os três meses que menos venderam foram:
-1. Mês: 4 - Total de transações: [515791]
-2. Mês: 5 - Total de transações: [633212]
-3. Mês: 3 - Total de transações: [636577]
+1. Mês: 4 - Total de transações: [515.791]
+2. Mês: 5 - Total de transações: [633.212]
+3. Mês: 3 - Total de transações: [636.577]
 
 ![Vendas por mês](images/vendas_por_mes.png)
