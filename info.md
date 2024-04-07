@@ -4,7 +4,7 @@
 Este documento apresenta os principais insights obtidos durante a análise exploratória do conjunto de dados "basic-analytics.csv".
 
 ## Total de Transações
-- Total de transações: [125000]
+- Total de transações: [125.000]
 
 ## Média e Desvio Padrão das Transações
 - Média das transações: [64.99]
