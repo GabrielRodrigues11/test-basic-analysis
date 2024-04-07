@@ -16,6 +16,15 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - O maior valor de transação é: [105]
 - O menor valor de transação é: [10]
 
+## Total de transações por ano
+- 2011: [1340339] - Média: [64.88]
+- 2012: [2116599] - Média: [65.04]
+- 2013: [2137368] - Média: [64.96]
+- 2014: [2094508] - Média: [64.99]
+- 2015: [435175] - Média: [65.23]
+
+- Total de todos os anos: [8123989]
+
 ## Total de Transações por mês
 - Total de Transações para o mês 1: [724107]
 - Total de Transações para o mês 2: [645154]
@@ -26,11 +35,11 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - Total de Transações para o mês 7: [717223]
 - Total de Transações para o mês 8: [726921]
 - Total de Transações para o mês 9: [694433]
-- Total de Transações para o mês 10:[725320]
-- Total de Transações para o mês 11:[698273]
-- Total de Transações para o mês 12:[709964]
+- Total de Transações para o mês 10: [725320]
+- Total de Transações para o mês 11: [698273]
+- Total de Transações para o mês 12: [709964]
 
-## Total de Transações por mês
+## Média de Transações por mês
 - Média de Transação para o mês 1: [64.97]
 - Média de Transação para o mês 2: [64.91]
 - Média de Transação para o mês 3: [65.27]
@@ -40,9 +49,9 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - Média de Transação para o mês 7: [64.99]
 - Média de Transação para o mês 8: [64.92]
 - Média de Transação para o mês 9: [64.97]
-- Média de Transação para o mês 10:[64.87]
-- Média de Transação para o mês 11:[65.42]
-- Média de Transação para o mês 12:[64.74]
+- Média de Transação para o mês 10: [64.87]
+- Média de Transação para o mês 11: [65.42]
+- Média de Transação para o mês 12: [64.74]
 
 ## Clientes com Maior Quantidade de Transações
 - Os 10 clientes com maior quantidade de transações:
