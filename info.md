@@ -12,7 +12,7 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 
 ![Média de transações](images/media_transacoes.png)
 
-![Desvio padrão das transições](images/desvio_padrao_transicoes.png)
+![Desvio padrão das transições](images/desvio_padrao_transacoes.png)
 
 ## Números importantes
 - Quantidade média de transações por cliente: [18.14]
@@ -20,7 +20,7 @@ Este documento apresenta os principais insights obtidos durante a análise explo
 - O maior valor de transação é: [105]
 - O menor valor de transação é: [10]
 
-![Moda de transação por ano](images/moda_transacao_mes_ano.png)
+![Moda de transação por ano](images/moda_transacoes_mes_ano.png)
 
 ## Total de transações por ano
 - 2011: [1340339] - Média: [64.88]
